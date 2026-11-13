@@ -12,7 +12,7 @@ spring:
 stripe:
   api:
     secret: sk_test_51TgVYoGR6kXcP0CisbKs1OgwpxQ5V2LVNN4bD68JRfsvaRhtN0OcWUrnXdT2Xxnk2emPQK9M7mYzE0RHiddr4GVf00uQDzc1ea
-  webhook:
+  webhooks:
     secret: sk_test_51TgVYoGR6kXcP0CisbKs1OgwpxQ5V2LVNN4bD68JRfsvaRhtN0OcWUrnXdT2Xxnk2emPQK9M7mYzE0RHiddr4GVf00uQDzc1ea
 
 app.frontend.url: http://localhost:8080
